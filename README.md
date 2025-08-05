@@ -17,3 +17,6 @@ An hour was classified as a **HDW hour** if all three thresholds were met simult
 3. Wind speed ≥ **7 m/s**
 
 The number of HDW hours was summed for each phenological stage and location. This process was repeated for all site-years in the dataset, producing a CSV output containing HDW counts for the three growth periods per location-year.
+<img width="1024" height="1536" alt="FlowdiagramForcalculatingHDW" src="https://github.com/user-attachments/assets/e9d69eda-5a45-482a-b4d1-<img width="1024" height="1536" alt="FlowdiagramForcalculatingHDW" src="https://github.com/user-attachments/assets/c4ed4aae-72a0-455b-b2a1-bc997d2849cf" />
+<img width="1024" height="1536" alt="FlowdiagramForcalculatingHDW" src="https://github.com/user-attachments/assets/1677c3fe-9e67-4516-aa0c-0ed246626e25" />
+b51b450f7391" />
